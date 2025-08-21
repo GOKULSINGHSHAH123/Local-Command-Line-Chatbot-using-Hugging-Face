@@ -2,6 +2,8 @@
 
 A simple yet powerful command-line chatbot built with Hugging Face Transformers, featuring conversation memory and local model execution.
 
+library<img width="3000" height="5000" alt="deepseek_mermaid_20250821_d403c9" src="https://github.com/user-attachments/assets/837b7196-c152-4357-b593-671bc7036342" />
+
 ## Features
 
 - **Local Model Execution**: Runs entirely on your machine using Hugging Face models
@@ -24,7 +26,7 @@ A simple yet powerful command-line chatbot built with Hugging Face Transformers,
 
 - Python 3.7+
 - PyTorch
-- Transformers library<img width="3346" height="5131" alt="deepseek_mermaid_20250821_d403c9" src="https://github.com/user-attachments/assets/837b7196-c152-4357-b593-671bc7036342" />
+- Transformers 
 
 - CUDA (optional, for GPU acceleration)
 
