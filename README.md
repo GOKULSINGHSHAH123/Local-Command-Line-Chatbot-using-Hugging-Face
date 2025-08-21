@@ -59,6 +59,8 @@ python main.py
 
 You can modify the model in `main.py` or create a custom instance:
 ```python
+
+chat = ChatInterface(model_name="google/flan-t5-large")  # Model used in code
 chat = ChatInterface(model_name="google/flan-t5-base")  # Smaller model
 # or
 chat = ChatInterface(model_name="google/flan-t5-xl")    # Larger model
